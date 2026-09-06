@@ -48,7 +48,6 @@ Designing responsive, intuitive experiences around real user needs.
 <br>
 
 ## Featured Projects
-## Featured Projects
 
 ### GGE — Golden Globe Enterprises
 
