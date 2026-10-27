@@ -4,7 +4,7 @@
 
 <br>
 
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-a855f7?style=for-the-badge&labelColor=0a0d18" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/subhalakshmi-m/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-a855f7?style=for-the-badge&labelColor=0a0d18" alt="LinkedIn"></a>
 <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-ec4899?style=for-the-badge&labelColor=0a0d18" alt="Portfolio"></a>
 <a href="https://github.com/subha-0306?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-BROWSE-38bdf8?style=for-the-badge&labelColor=0a0d18" alt="Repositories"></a>
 
@@ -137,12 +137,8 @@ Analytics dashboard for evaluating EV charging station trust, performance, and r
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subha-0306/subha-0306/output/github-snake.svg">
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/subha-0306/subha-0306/output/github-snake-dark.svg" width="100%">
 </picture>
-
 <br>
-
 <div align="center">
-
-<sub>Building in public from Chennai, India.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=110&section=footer" width="100%" alt="">
 
