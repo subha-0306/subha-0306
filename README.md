@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./header.svg" width="100%" alt="Subhalakshmi M — Full-Stack Developer and AI Product Builder">
+<img src="./header (1).svg" width="100%" alt="Subhalakshmi M — Full-Stack Developer and AI Product Builder">
 
 <br>
 
