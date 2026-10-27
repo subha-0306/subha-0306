@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=".profile-final.zip" width="100%" alt="Subhalakshmi M — Full-Stack Developer and AI Product Builder">
+<img src="./header (1).svg" width="100%" alt="Subhalakshmi M — Full-Stack Developer and AI Product Builder">
 
 <br>
 
@@ -20,7 +20,34 @@ I build full-stack applications and AI-powered products that turn practical idea
 
 Computer Science & Engineering at **Rajalakshmi Engineering College**, with client work shipped to production alongside my projects.
 
-<img src="./assets/pillars.svg" width="100%" alt="Full-Stack, AI and ML, Data and Analytics, Product">
+<table>
+<tr>
+<td width="25%" valign="top">
+
+<img src="https://img.shields.io/badge/FULL--STACK-a855f7?style=for-the-badge&labelColor=0a0d18" alt="Full-Stack"><br><br>
+Complete web applications across frontend, backend, APIs, and databases.
+
+</td>
+<td width="25%" valign="top">
+
+<img src="https://img.shields.io/badge/AI%20%26%20ML-ec4899?style=for-the-badge&labelColor=0a0d18" alt="AI and ML"><br><br>
+Practical machine learning with explainability built in, not bolted on.
+
+</td>
+<td width="25%" valign="top">
+
+<img src="https://img.shields.io/badge/DATA-0891b2?style=for-the-badge&labelColor=0a0d18" alt="Data"><br><br>
+Turning raw data into dashboards, insight, and decisions.
+
+</td>
+<td width="25%" valign="top">
+
+<img src="https://img.shields.io/badge/PRODUCT-d97706?style=for-the-badge&labelColor=0a0d18" alt="Product"><br><br>
+Responsive, intuitive experiences designed around real user needs.
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -29,21 +56,16 @@ Computer Science & Engineering at **Rajalakshmi Engineering College**, with clie
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,vite,tailwind,nodejs,express,python,flask,postgres,supabase,vercel,git,github&perline=13" alt="Core stack">
+  <img src="https://skillicons.dev/icons?i=js,react,vite,tailwind,nodejs,express,python,flask,postgres,supabase,vercel,git,github&perline=13" alt="Core stack icons">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LightGBM-7c3aed?style=flat-square" alt="LightGBM">
-  <img src="https://img.shields.io/badge/SHAP%20%2F%20TreeSHAP-7c3aed?style=flat-square" alt="TreeSHAP">
-  <img src="https://img.shields.io/badge/Scikit--learn-7c3aed?style=flat-square" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/Pandas-be185d?style=flat-square" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-be185d?style=flat-square" alt="NumPy">
-  <img src="https://img.shields.io/badge/Streamlit-be185d?style=flat-square" alt="Streamlit">
-  <img src="https://img.shields.io/badge/Chart.js-0e7490?style=flat-square" alt="Chart.js">
-  <img src="https://img.shields.io/badge/Recharts-0e7490?style=flat-square" alt="Recharts">
-  <img src="https://img.shields.io/badge/Leaflet-0e7490?style=flat-square" alt="Leaflet">
-  <img src="https://img.shields.io/badge/Zod-b45309?style=flat-square" alt="Zod">
-</p>
+| | |
+|---|---|
+| **Frontend** | React · Vite · Tailwind CSS · JavaScript · Recharts · Chart.js · React Leaflet |
+| **Backend** | Node.js · Express · Flask · REST APIs · Zod validation |
+| **Data & ML** | Python · LightGBM · TreeSHAP · Scikit-learn · Pandas · NumPy · Streamlit |
+| **Database & Auth** | Supabase · PostgreSQL |
+| **Deployment & Tools** | Vercel · Render · Git · GitHub |
 
 <br>
 
@@ -51,33 +73,56 @@ Computer Science & Engineering at **Rajalakshmi Engineering College**, with clie
 
 <br>
 
-<a href="https://github.com/subha-0306/gge-website"><img src="./assets/card-gge.svg" width="100%" alt="GGE — Golden Globe Enterprises"></a>
-<p align="center">
-  <a href="https://gge-website-eosin.vercel.app"><img src="https://img.shields.io/badge/LIVE%20SITE-OPEN-b8860b?style=flat-square&labelColor=0a0d18" alt="Live site"></a>
-  <a href="https://github.com/subha-0306/gge-website"><img src="https://img.shields.io/badge/REPOSITORY-VIEW-6b7280?style=flat-square&labelColor=0a0d18" alt="Repository"></a>
-</p>
+<a href="https://github.com/subha-0306/gge-website"><img src="./assets/proj-gge.svg" width="100%" alt="GGE — Golden Globe Enterprises"></a>
 
-<a href="https://github.com/subha-0306/WalletWise"><img src="./assets/card-walletwise.svg" width="100%" alt="WalletWise — personal finance PWA"></a>
-<p align="center">
-  <a href="https://wallet-wise-tawny.vercel.app"><img src="https://img.shields.io/badge/LIVE%20DEMO-OPEN-b4713a?style=flat-square&labelColor=0a0d18" alt="Live demo"></a>
-  <a href="https://github.com/subha-0306/WalletWise"><img src="https://img.shields.io/badge/REPOSITORY-VIEW-6b7280?style=flat-square&labelColor=0a0d18" alt="Repository"></a>
-</p>
+Production financial services website built and shipped for a real client, with a responsive interface and a focused black, gold, and white visual system.
 
-<a href="https://github.com/subha-0306/GrowLedger-AI"><img src="./assets/card-growledger.svg" width="100%" alt="GrowLedger AI — explainable financial readiness"></a>
-<p align="center">
-  <a href="https://growledger-ai.vercel.app"><img src="https://img.shields.io/badge/LIVE%20DEMO-OPEN-0f766e?style=flat-square&labelColor=0a0d18" alt="Live demo"></a>
-  <a href="https://github.com/subha-0306/GrowLedger-AI"><img src="https://img.shields.io/badge/REPOSITORY-VIEW-6b7280?style=flat-square&labelColor=0a0d18" alt="Repository"></a>
-</p>
+<code>React</code> <code>Tailwind CSS</code> <code>JavaScript</code>
 
-<a href="https://github.com/subha-0306/SPEAK_Project"><img src="./assets/card-speak.svg" width="100%" alt="S.P.E.A.K. AI — women's safety platform"></a>
-<p align="center">
-  <a href="https://github.com/subha-0306/SPEAK_Project"><img src="https://img.shields.io/badge/REPOSITORY-VIEW-c026d3?style=flat-square&labelColor=0a0d18" alt="Repository"></a>
-</p>
+<a href="https://gge-website-eosin.vercel.app"><img src="https://img.shields.io/badge/LIVE%20SITE-OPEN-b8860b?style=flat-square&labelColor=0a0d18" alt="Live site"></a>
+<a href="https://github.com/subha-0306/gge-website"><img src="https://img.shields.io/badge/REPOSITORY-VIEW-6b7280?style=flat-square&labelColor=0a0d18" alt="Repository"></a>
 
-<a href="https://github.com/subha-0306/TrustCharge"><img src="./assets/card-trustcharge.svg" width="100%" alt="TrustCharge — EV charging analytics"></a>
-<p align="center">
-  <a href="https://github.com/subha-0306/TrustCharge"><img src="https://img.shields.io/badge/REPOSITORY-VIEW-0e7490?style=flat-square&labelColor=0a0d18" alt="Repository"></a>
-</p>
+<br>
+
+<a href="https://github.com/subha-0306/WalletWise"><img src="./assets/proj-walletwise.svg" width="100%" alt="WalletWise — personal finance PWA"></a>
+
+Mobile-first, installable finance app with multi-wallet tracking, borrow and lend with linked transactions, recurring transactions, budgets, savings goals, and spending analytics.
+
+<code>React</code> <code>Vite</code> <code>Tailwind CSS</code> <code>Express</code> <code>Supabase</code> <code>PostgreSQL</code>
+
+<a href="https://wallet-wise-tawny.vercel.app"><img src="https://img.shields.io/badge/LIVE%20DEMO-OPEN-b4713a?style=flat-square&labelColor=0a0d18" alt="Live demo"></a>
+<a href="https://github.com/subha-0306/WalletWise"><img src="https://img.shields.io/badge/REPOSITORY-VIEW-6b7280?style=flat-square&labelColor=0a0d18" alt="Repository"></a>
+
+<br>
+
+<a href="https://github.com/subha-0306/GrowLedger-AI"><img src="./assets/proj-growledger.svg" width="100%" alt="GrowLedger AI — explainable financial readiness"></a>
+
+Financial readiness assessment that pairs a LightGBM model with TreeSHAP explanations, then turns the result into a Financial Passport, a plain-language story, and a 30 / 60 / 90-day roadmap.
+
+<code>React</code> <code>Vite</code> <code>Flask</code> <code>LightGBM</code> <code>TreeSHAP</code>
+
+<a href="https://growledger-ai.vercel.app"><img src="https://img.shields.io/badge/LIVE%20DEMO-OPEN-0f766e?style=flat-square&labelColor=0a0d18" alt="Live demo"></a>
+<a href="https://github.com/subha-0306/GrowLedger-AI"><img src="https://img.shields.io/badge/REPOSITORY-VIEW-6b7280?style=flat-square&labelColor=0a0d18" alt="Repository"></a>
+
+<br>
+
+<a href="https://github.com/subha-0306/SPEAK_Project"><img src="./assets/proj-speak.svg" width="100%" alt="S.P.E.A.K. AI — women's safety platform"></a>
+
+Anonymous incident reporting with AI-assisted severity analysis, an interactive safety map, SOS support, and a live safety dashboard.
+
+<code>React 18</code> <code>Flask</code> <code>React Leaflet</code> <code>Chart.js</code>
+
+<a href="https://github.com/subha-0306/SPEAK_Project"><img src="https://img.shields.io/badge/REPOSITORY-VIEW-c026d3?style=flat-square&labelColor=0a0d18" alt="Repository"></a>
+
+<br>
+
+<a href="https://github.com/subha-0306/TrustCharge"><img src="./assets/proj-trustcharge.svg" width="100%" alt="TrustCharge — EV charging analytics"></a>
+
+Analytics dashboard for evaluating EV charging station trust, performance, and related data-driven insights.
+
+<code>Python</code> <code>Streamlit</code> <code>Data Analytics</code>
+
+<a href="https://github.com/subha-0306/TrustCharge"><img src="https://img.shields.io/badge/REPOSITORY-VIEW-0e7490?style=flat-square&labelColor=0a0d18" alt="Repository"></a>
 
 <br>
 
