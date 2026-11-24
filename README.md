@@ -139,9 +139,6 @@ Analytics dashboard for evaluating EV charging station trust, performance, and r
   <img src="https://streak-stats.demolab.com?user=subha-0306&theme=dark&hide_border=true&background=0a0d18&ring=c084fc&fire=f472b6&currStreakLabel=f9a8d4&sideLabels=d4d0e8&currStreakNum=ffffff&sideNums=ffffff&dates=8b86a8" alt="Contribution streak">
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/a855f7/subha-0306" alt="Contribution heatmap" width="100%">
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subha-0306/subha-0306/output/github-snake-dark.svg?v=2">
