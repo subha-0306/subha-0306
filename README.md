@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./header (1).svg" width="100%" alt="Subhalakshmi M — Full-Stack Developer and AI Product Builder">
+<img src="./assets/header.svg" width="100%" alt="Subhalakshmi M — Full-Stack Developer and AI Product Builder">
 
 <br>
 
 <a href="https://www.linkedin.com/in/subhalakshmi-m/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-a855f7?style=for-the-badge&labelColor=0a0d18" alt="LinkedIn"></a>
 <a href="https://github.com/subha-0306?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-BROWSE-ec4899?style=for-the-badge&labelColor=0a0d18" alt="Repositories"></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-38bdf8?style=for-the-badge&labelColor=0a0d18" alt="Portfolio"></a>
+<a href="https://growledger-ai.vercel.app"><img src="https://img.shields.io/badge/LATEST%20BUILD-GROWLEDGER%20AI-38bdf8?style=for-the-badge&labelColor=0a0d18" alt="Latest build"></a>
 
 </div>
 
