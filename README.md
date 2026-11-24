@@ -144,9 +144,9 @@ Analytics dashboard for evaluating EV charging station trust, performance, and r
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subha-0306/subha-0306/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subha-0306/subha-0306/output/github-snake.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/subha-0306/subha-0306/output/github-snake-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subha-0306/subha-0306/output/github-snake-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subha-0306/subha-0306/output/github-snake.svg?v=2">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/subha-0306/subha-0306/output/github-snake-dark.svg?v=2" width="100%">
 </picture>
 
 <div align="center">
